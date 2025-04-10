@@ -1,4 +1,4 @@
-name: Deploy Astro Site to Github Pages
+name: Deploy Ma-Creatives-mainto Github Pages
 
 on:
  push:
