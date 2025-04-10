@@ -1,4 +1,4 @@
-name: Deploy Ma-Creatives-mainto Github Pages
+name: Deploy Ma-Creatives-main to Github Pages
 
 on:
  push:
